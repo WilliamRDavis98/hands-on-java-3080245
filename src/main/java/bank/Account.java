@@ -1,6 +1,5 @@
 package bank;
 
-
 import bank.exceptions.AmountException;
 
 public class Account {
